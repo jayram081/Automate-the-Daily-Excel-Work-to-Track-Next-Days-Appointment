@@ -34,5 +34,7 @@ Typically, policyholders above a certain age (often 40 or 45 years) are required
 >- **AppointmentStatus :** Current starus of Appointment
 
 
-## ⭐ `Let's Do it in Python` :
+# ⭐ `Let's Do it in Python` :
 >We will first build the logic and will explain and make the program. And after the we will make a function to repeat this daily task, make it simple for the account manager who is not well verse with python and save the time.
+>1. In first python notbook we will explain the entire process.
+>2. In second we will make a function to repeat this daily task, make it simple for the account manager who is not well verse with python and save the time.
